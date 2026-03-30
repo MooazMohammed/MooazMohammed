@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/mooaz">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/https://www.linkedin.com/in/mooaz-mohamed-sied-b8b4813a5/?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mooazmohammed110@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />

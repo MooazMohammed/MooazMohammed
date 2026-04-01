@@ -1,125 +1,60 @@
-<h1 align="center">Hi 👋, I'm Mooaz Mohamed Sied</h1>
-<h3 align="center">Mobile Application Developer | Flutter & Dart</h3>
+<img align="right" src="https://visitcount.itsvg.in/api?id=MooazMohammed&icon=6&color=1" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MooazMohammed&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=200&section=header&text=Mooaz%20Mohamed%20Sied&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Application%20Developer%20|%20Flutter%20%26%20Dart&descSize=18&descAlignY=55&descAlign=50" />
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/mooaz">
-    <img src="https://img.shields.io/badge/https://www.linkedin.com/in/mooaz-mohamed-sied-b8b4813a5/?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%93%B1+Building+Beautiful+Mobile+Experiences;%F0%9F%9A%80+Flutter+%7C+Dart+%7C+Firebase+%7C+Clean+Architecture;%F0%9F%8E%AF+Turning+Ideas+Into+Pixel-Perfect+Apps" alt="Typing SVG" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mooaz-mohamed-sied-b8b4813a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
   <a href="mailto:mooazmohammed110@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+  &nbsp;
+  <a href="https://github.com/MooazMohammed">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
----
+<br/>
 
-## 🚀 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🎓 **Computer Science Student** at Beni-Suef University 
-  (Faculty of Computers & Information — Senior Year)
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-- 📱 **Mobile App Developer** specializing in 
-  **Flutter & Dart** with 1+ year of experience
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🏆 Graduate of **DEPI Initiative** — Ministry of 
-  Communications (9-Month Intensive Mobile Development Track)
+```yaml
+name: Mooaz Mohamed Sied
+located_in: Egypt
+education: B.Sc. Computer Science — Beni-Suef University
+training: DEPI Initiative (Ministry of Communications)
+role: Mobile Application Developer
 
-- 🌱 Currently deepening my knowledge in 
-  **Clean Architecture, Design Patterns & Testing**
-
-- 💬 Ask me about **Flutter, Dart, BLoC, Firebase, 
-  REST APIs, Clean Architecture**
-
-- 📫 Reach me at **mooazmohammed110@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-## 📱 Featured Projects
-
-### 🛒 ShopZone — Smart E-Commerce Platform
-> A full-featured e-commerce mobile app with product 
-> browsing, cart management, and seamless shopping 
-> experience.
->
-> **Tech:** Flutter • Dart • BLoC • REST APIs • MVVM
->
-> [🔗 View Repository](https://github.com/MooazMohammed/shopzone)
-
----
-
-### 🌤️ SkyPulse — Intelligent Weather Companion
-> Real-time weather app with GPS detection, 7-day 
-> forecast, and dynamic weather-themed UI.
->
-> **Tech:** Flutter • Dart • REST APIs • MVVM • Geolocator
->
-> [🔗 View Repository](https://github.com/MooazMohammed/skypulse)
-
----
-
-### 💬 QuickChat — Real-Time Messaging App
-> Real-time chat application with Firebase authentication 
-> and instant messaging capabilities.
->
-> **Tech:** Flutter • Dart • Firebase Auth • Firestore • BLoC
->
-> [🔗 View Repository](https://github.com/MooazMohammed/quickchat)
-
----
-
-### 📝 MindVault — Smart Note Management App
-> Offline-first note management app with rich 
-> organization features and local data storage.
->
-> **Tech:** Flutter • Dart • Hive • Cubit • Clean Architecture
->
-> [🔗 View Repository](https://github.com/MooazMohammed/mindvault)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MooazMohammed&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MooazMohammed&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MooazMohammed&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🎓 Education & Training
-
-| | Details |
-|---|---|
-| 🎓 **University** | B.Sc. Computer Science — Beni-Suef University (2022-2026) |
-| 📱 **Training** | DEPI Mobile Development Track — Ministry of Communications (9 Months) |
-| 📜 **Certificates** | DEPI Mobile Dev • DEPI Business English • Udemy Flutter & Dart |
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
-</p>
+fields_of_interests:
+  - Mobile App Development
+  - Cross-Platform Development
+  - UI/UX Implementation
+  - Clean Architecture
+  
+currently_learning:
+  - Advanced Flutter Patterns
+  - Testing & CI/CD
+  - Design Patterns
+  
+ask_me_about:
+  - Flutter & Dart
+  - BLoC Pattern
+  - Firebase Integration
+  - REST APIs
+  - Clean Architecture & MVVM

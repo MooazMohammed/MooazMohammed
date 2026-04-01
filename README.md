@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mooazmohammed110@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MooazMohammed)
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=MooazMohammed&color=0e75b6&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -81,21 +81,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MooazMohammed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MooazMohammed&theme=tokyonight&hide_border=true&background=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MooazMohammed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MooazMohammed&theme=tokyonight&no-frame=true&no-bg=true&column=4)](https://github.com/MooazMohammed)
 
 </div>
 

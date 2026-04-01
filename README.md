@@ -81,12 +81,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MooazMohammed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MooazMohammed&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MooazMohammed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MooazMohammed&theme=tokyonight&hide_border=true&background=0D1117)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MooazMohammed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MooazMohammed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 </div>
 
@@ -96,7 +95,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MooazMohammed&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MooazMohammed&theme=tokyonight&no-frame=true&no-bg=true&column=4)](https://github.com/MooazMohammed)
 
 </div>
 
